@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BusTracker1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_sourcedestination">sourcedestination</string>
+    <string name="mnth_picker">Select a city</string>
+    <string-array name="mnth_array">
+        <item>Hyderabad</item>
+        <item>Delhi</item>
+        <item>Warangal</item>
+        <item>Vizag</item>
+        <item>Kolkata</item>
+        <item>Pune</item>
+        <item>Bangalore</item>
+        <item>Mumbai</item>
+        <item>Vijayawada</item>
+        <item>NEpal</item>
+        <item>Ahmedabad</item>
+        <item>Indore</item>
+    </string-array>
+
+
+
+</resources>
